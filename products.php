@@ -25,7 +25,6 @@ class products {
     function getPrice(){
         return $this->price;
     }
-
 }
 
 ?>
